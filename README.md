@@ -1,6 +1,13 @@
 ## BinaryVQA:
 Binary VQA test set for testing Visual Question Answering Models
 
+BinaryVQA: A Versatile Test Set to Evaluate the Out-of-Distribution Generalization of VQA Models
+
+Ali Borji
+
+https://arxiv.org/abs/2301.12032
+
+
 - Our dataset comprises 7,800 carefully formulated and manually verified binary questions, covering a diverse range of objects, topics,
 and concepts, with 1,024 associated images
 
